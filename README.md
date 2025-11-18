@@ -9,5 +9,5 @@ Student ID: S74657
 Name: NOR ARIF AIZAT BIN NOR AZHAR
 Student ID: S75561
 
-Name: 
-Student ID: 
+Name: SATRIALDY DARREL FARIZKI  
+Student ID: S76351
