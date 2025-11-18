@@ -6,8 +6,8 @@ GROUP : CHAR KUEY TEOW
 Name: SHAH PUTERA ISKANDAR BIN ISMADI
 Student ID: S74657
 
-Name: 
-Student ID: 
+Name: NOR ARIF AIZAT BIN NOR AZHAR
+Student ID: S75561
 
 Name: 
 Student ID: 
