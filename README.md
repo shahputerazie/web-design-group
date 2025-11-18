@@ -3,6 +3,8 @@
 
 GROUP : CHAR KUEY TEOW
 
+Web Site Topic : ShopEase – The Electronics Online Store
+
 Name: SHAH PUTERA ISKANDAR BIN ISMADI
 Student ID: S74657
 
