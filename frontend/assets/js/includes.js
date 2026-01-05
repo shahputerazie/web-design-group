@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
             single: 'pages/single.html',
             bestseller: 'pages/bestseller.html',
             cart: 'pages/cart.html',
-            checkout: 'pages/cheackout.html',
+            checkout: 'pages/checkout.html',
             'not-found': 'pages/404.html',
             contact: 'pages/contact.html'
         };
