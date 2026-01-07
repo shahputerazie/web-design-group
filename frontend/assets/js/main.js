@@ -158,6 +158,18 @@
         button.parent().parent().find('input').val(newVal);
     });
 
+    // Cart row delete (handle column)
+    if (document.body.dataset.page === 'cart') {
+        $('.table').on('click', 'button', function (event) {
+            var button = $(this);
+            if (button.find('.fa-times').length === 0) {
+                return;
+            }
+            event.preventDefault();
+            button.closest('tr').remove();
+        });
+    }
+
 
     
    // Back to top button
